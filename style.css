@@ -436,8 +436,8 @@ input:required {
   text-align: center;
   text-transform: capitalize;
   background-color: transparent;
-  color: #FFF100;
-  border: 2px solid #FFF100;
+  color: #ffcc00;
+  border: 2px solid #ffcc00;
   border-radius: 60px;
   -webkit-transition-duration: 500ms;
   -o-transition-duration: 500ms;
@@ -448,7 +448,7 @@ input:required {
     font-weight: 500;
     -webkit-box-shadow: 0 2px 40px 8px rgba(15, 15, 15, 0.15);
     box-shadow: 0 2px 40px 8px rgba(15, 15, 15, 0.15);
-    background-color: #FFF100;
+    background-color: #ffcc00;
     color: #8CC63E; }
 
 .badges-btn {
@@ -535,13 +535,13 @@ input:required {
     cursor: pointer; }
 
 .classy-nav-container {
-  background-color: #FFF100;
+  background-color: #ffcc00;
   padding: 0; }
   .classy-nav-container .classy-navbar {
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
     transition-duration: 500ms;
-    height: 70px;
+    height: 120px;
     padding: 0; }
     @media only screen and (max-width: 767px) {
       .classy-nav-container .classy-navbar .nav-brand {
@@ -1502,11 +1502,11 @@ input:required {
 .alime-portfolio-area {
   position: relative;
   z-index: 1;
-  background-color: #fff100;   }
+  background-color: #ffcc00;   }
   .alime-portfolio-area .container-fluid {
     padding-right: 10%;
     padding-left: 10%;
-	background-color: #fff100; }
+	background-color: #ffcc00; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .alime-portfolio-area .container-fluid {
         padding-right: 5%;
