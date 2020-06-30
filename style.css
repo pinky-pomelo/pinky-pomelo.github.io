@@ -88,7 +88,7 @@ p {
   font-weight: 400; }
 
 img {
-  width: 100%;
+  /* width: 100%; */
   height: auto; }
 
 ul {
@@ -541,7 +541,7 @@ input:required {
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
     transition-duration: 500ms;
-    height: 120px;
+    height: 100px;
     padding: 0; }
     @media only screen and (max-width: 767px) {
       .classy-nav-container .classy-navbar .nav-brand {
@@ -551,7 +551,7 @@ input:required {
       font-size: 16px;
       text-transform: capitalize;
       color: #8CC63E;
-      font-weight: 500;
+      font-weight: bold;
       padding: 0 20px; }
       .classy-nav-container .classy-navbar .classynav ul li a:hover, .classy-nav-container .classy-navbar .classynav ul li a:focus {
         color: #fc6060; }

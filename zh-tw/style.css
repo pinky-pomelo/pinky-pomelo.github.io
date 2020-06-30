@@ -33,6 +33,7 @@ Last Update: Feb 22, 2019
 /* Import Fonts & All CSS */
 @import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700");
 @import url(css/bootstrap.min.css);
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 @import url(css/animate.css);
 @import url(css/default-assets/classy-nav.css);
@@ -47,7 +48,7 @@ Last Update: Feb 22, 2019
   padding: 0; }
 
 body {
-  font-family: "Ubuntu", sans-serif;
+  font-family: 'Noto Sans TC', sans-serif;
   font-weight: 400;
   font-size: 16px;
   position: relative;
